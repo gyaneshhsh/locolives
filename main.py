@@ -1,6 +1,6 @@
 import discord
 from discord.ext.commands import bot
-from discord import game
+from discord import dmass
 from discord.ext import commands
 
 client = commands.Bot(command_prefix = '-')
