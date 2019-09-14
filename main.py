@@ -153,7 +153,7 @@ async def userinfo(ctx, user: discord.User):
     emb.add_field(name="Discriminator (tag)", value=disc)
     emb.add_field(name="Status", value=stat)
     emb.add_field(name="User ID", value=eyedee)
-    emb.add_field(name="Playing", value=user.game)
+    emb.add_field(name="Playing", value=user.dm)
     emb.set_footer(text="Created on " + cr + " EST")
     await client.say(embed=emb)
 
