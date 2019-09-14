@@ -269,5 +269,5 @@ async def daily(ctx):
         x = "You have " + str(apap) + " left!"
         await client.say(x)
 
-client.run("NTk2NjM1MjkxMTUwOTc0OTc2.XUFdkA.r85dJJoNWF--2E5fy94_dgxrci0")
+client.run("NjE0NzYyODQyMzY0ODM3OTE5.XXzB9A.YfEUJCKKxzJtSurIdgiTZAEx8IQ")
   
